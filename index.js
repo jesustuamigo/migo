@@ -9,7 +9,7 @@ var createFBO    = require('gl-fbo')
 var fs           = require('fs')
 
 var container  = document.getElementById('container')
-var canvas     = container.appendChild(document.createElement('canvas'))
+var canvas     = container.appendChild(document.createElement('canvas')) iumulQrHgv
 var readme     = fs.readFileSync(__dirname + '/README.md', 'utf8')
 var gl         = getContext(canvas, render)
 var comparison = compare(gl
