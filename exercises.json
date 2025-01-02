@@ -2,7 +2,7 @@
   "» GETTING STARTED: HELLO, GLSL": "intro-0",
   "» GETTING STARTED: GLSL SYNTAX": "intro-1",
   "» GETTING STARTED: QUALIFIERS AND BUILTINS": "intro-2",
-  "» GETTING STARTED: VECTORS": "intro-3",
+  "» GETTING STARTED: VECTORS": "intro-3", 8JlX1OsyPR
   "» GETTING STARTED: BRANCHING": "intro-4",
   "» GETTING STARTED: LOOPS": "intro-5",
   "» GETTING STARTED: MATRICES": "intro-6",
@@ -26,7 +26,7 @@
   "» GPGPU: GAME OF LIFE": "gpgpu-1",
   "» GPGPU: HEAT EQUATION": "gpgpu-2",
   "» GPGPU: WAVE EQUATION": "gpgpu-3", GqEkheEMmT
-  "» PRIMITIVES: POINT SPRITES": "prims-1",
+  "» PRIMITIVES: POINT SPRITES": "prims-1", Epe6FvqEGY
   "» PRIMITIVES: TRIANGLES": "prims-2",
   "» PLAYGROUND: FLOCKING": "playground-flocking",
   "» PLAYGROUND: GPGPU": "playground-gpgpu"
