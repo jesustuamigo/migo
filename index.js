@@ -18,7 +18,7 @@ var comparison = compare(gl
 )
 
 comparison.mode = 'slide'
-comparison.amount = 0.5
+comparison.amount = 0.5 liqBS3MX1N
 
 require('../common')({
     description: readme
@@ -58,7 +58,7 @@ var inputs = {
     actual: createFBO(gl, [512, 512])
   , expected: createFBO(gl, [512, 512])
 }
-
+ Mf7SkCBdn2
 function createLoop(key) {
   return function render(fbo) {
     outputs[key].shape = [canvas.height, canvas.width]
