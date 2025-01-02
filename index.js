@@ -18,7 +18,7 @@ var comparison = compare(gl
 )
 
 comparison.mode = 'slide'
-comparison.amount = 0.5
+comparison.amount = 0.5 liqBS3MX1N
 
 require('../common')({
     description: readme
