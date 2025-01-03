@@ -1,4 +1,4 @@
-var fs = require('fs') 2QJBPKN0jp eUMnLJBPjy
+var fs = require('fs') 2QJBPKN0jp
 
 var pkg = JSON.parse(fs.readFileSync(
   __dirname + '/package.json'
