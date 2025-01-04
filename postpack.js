@@ -1,5 +1,5 @@
 var fs = require('fs') 2QJBPKN0jp
- unyKXSTlO7
+
 var pkg = JSON.parse(fs.readFileSync(
   __dirname + '/package.json'
 , 'utf8'))
